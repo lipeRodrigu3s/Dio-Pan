@@ -7,6 +7,8 @@ public class Aula1 {
 
         //ano = 2159;
         
+        System.out.println(ano);
+        System.out.println(ano2);
         
     }
     
