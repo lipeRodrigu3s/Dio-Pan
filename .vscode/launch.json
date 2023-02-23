@@ -4,7 +4,13 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "Launch scanner",
+            "request": "launch",
+            "mainClass": "scanner",
+            "projectName": "Dio-Pan_f75114d3"
+        },
         {
             "type": "java",
             "name": "Launch Current File",
@@ -50,7 +56,6 @@
                 "23",
                 "1.69"
             ]
-            //"projectName": "Dio-Pan_f75114d3"
         },
         {
             "type": "java",
