@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ImprimindoPositivos",
+            "request": "launch",
+            "mainClass": "Desafios.ImprimindoPositivos",
+            "projectName": "Dio-Pan_f75114d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FabricaDeCarros",
+            "request": "launch",
+            "mainClass": "Desafios.FabricaDeCarros",
+            "projectName": "Dio-Pan_f75114d3"
+        },
+        {
+            "type": "java",
             "name": "Launch scanner",
             "request": "launch",
             "mainClass": "scanner",
